@@ -14,5 +14,5 @@ In the second part we need to determine the mentorship eligibility.
 * Created a new table by joining 3 tables *employees, dep_emp and titles* to to get all the current employees and their current position of those whose birth dates are between January 1, 1965 and December 31, 1965
 
 ## Summary
-** We can know by counting unique_titles table that there will be 72,458 roles to be filled in the near future,  The total number of current employees is 240,125, sor about 30% of the employees will be retiring soon.
-** There are only 1549 employees in the mentorship program, so there are not enough people to prepare the next generation of employyes.
+* We can know by counting unique_titles table that there will be 72,458 roles to be filled in the near future,  The total number of current employees is 240,125, sor about 30% of the employees will be retiring soon.
+* There are only 1549 employees in the mentorship program, so there are not enough people to prepare the next generation of employyes.
