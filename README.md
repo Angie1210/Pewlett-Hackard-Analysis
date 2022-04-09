@@ -7,11 +7,11 @@ In this project we are going to help Pewlett-Hackard Company to determine how ma
 
 ## Results
 After looking in all the data, we performed some queries to establish new relationships and created new tables to display only the information we required.
-** We created "Retirement_titles" table to get the information of the  employees born between January 1, 1952 and December 31, 1955, by joining *employees* and *titles* tables.
-** We created *uniqye_title* table to hold the filtered the data with only the employees that are still working at the company and their current title.
-** We created *retiring_titles* table, to know how many employees per title are about to retire.
+* We created "Retirement_titles" table to get the information of the  employees born between January 1, 1952 and December 31, 1955, by joining *employees* and *titles* tables.
+* We created *uniqye_title* table to hold the filtered the data with only the employees that are still working at the company and their current title.
+* We created *retiring_titles* table, to know how many employees per title are about to retire.
 In the second part we need to determine the mentorship eligibility.
-** Created a new table by joining 3 tables *employees, dep_emp and titles* to to get all the current employees and their current position of those whose birth dates are between January 1, 1965 and December 31, 1965
+* Created a new table by joining 3 tables *employees, dep_emp and titles* to to get all the current employees and their current position of those whose birth dates are between January 1, 1965 and December 31, 1965
 
 ## Summary
 ** We can know by counting unique_titles table that there will be 72,458 roles to be filled in the near future,  The total number of current employees is 240,125, sor about 30% of the employees will be retiring soon.
