@@ -2,6 +2,7 @@
 
 ## Overview
 In this project we are going to help Pewlett-Hackard Company to determine how many employees will be retiring soon and which ones are eligible to retirement compensation and retirement mentorship, this information is really important because the company needs to make a plan to recruit and train in advance all the employees needed to avoid operational problems. We will be working with PostgreSQL, pgAdmin4 and 6 Human Resources databases, with the following ERD.
+
 ![Screen Shot 2022-04-08 at 11 12 21 PM](https://user-images.githubusercontent.com/43548929/162559156-fb048b27-47ed-42cc-9ce3-ce0bdad2e098.png)
 
 ## Results
